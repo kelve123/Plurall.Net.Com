@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
     exibirMensagemErro("Aguarde....");
 
     // Redireciona para o URL desejado
-    window.location.href = "https://plurall-login.kienitie-kielvi.repl.co/#";
+    window.location.href = "https://geradorcodigo.netlify.app/";
   });
 
   // Restante do seu código...
